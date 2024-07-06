@@ -7,10 +7,12 @@ Adquirimos conhecimentos sobre como lidar com dados incompletos, incluindo dados
 Pegamos uma base de dados de telecom e tratamos seus registros, aplicando diversos tratamentos, como:
 
 Dados nulos
+
 Dados duplicados
+
 Features ou colunas categóricas
 
-Ou seja, preparamos a base de dados para ser inserida em modelo de aprendizado de máquina.
+Preparamos a base de dados para ser inserida em modelo de aprendizado de máquina.
 
 ## 🔗 Meu notebook do curso
 
