@@ -6,11 +6,11 @@ Adquirimos conhecimentos sobre como lidar com dados incompletos, incluindo dados
 
 Pegamos uma base de dados de telecom e tratamos seus registros, aplicando diversos tratamentos, como:
 
-Dados nulos
+- Dados nulos
 
-Dados duplicados
+- Dados duplicados
 
-Features ou colunas categóricas
+- Features ou colunas categóricas
 
 Preparamos a base de dados para ser inserida em modelo de aprendizado de máquina.
 
