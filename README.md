@@ -7,7 +7,8 @@ Realizamos o tratamento e a limpeza de ruídos como:
 - Strings vazias;
 - Modificação nos tipos das colunas
 - Dados duplicados
-- Dados nulos;Outliers
+- Dados nulos
+- Outliers
 - Variáveis categóricas
 - One hot encoding e dummies
 
