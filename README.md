@@ -1,6 +1,5 @@
 # O aprendemos ?
 
-O que aprendemos?
 Nesse curso, aprendemos a identificar, limpar e tratar diversos ruídos presentes na nossa base de dados e deixá-la pronta para ser inserida em um modelo de machine learning.
 
 Realizamos o tratamento e a limpeza de ruídos como:
