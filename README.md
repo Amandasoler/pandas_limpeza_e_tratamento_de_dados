@@ -1,10 +1,20 @@
 # O aprendemos ?
 
-Adquirimos conhecimentos sobre como lidar com dados incompletos, incluindo dados nulos, e torná-los prontos para análise de forma mais consistente e precisa. Além disso, aprendemos a inserir essa base de dados em um modelo de machine learning.
+O que aprendemos?
+Nesse curso, aprendemos a identificar, limpar e tratar diversos ruídos presentes na nossa base de dados e deixá-la pronta para ser inserida em um modelo de machine learning.
+
+Realizamos o tratamento e a limpeza de ruídos como:
+
+- Strings vazias;
+- Modificação nos tipos das colunas
+- Dados duplicados
+- Dados nulos;Outliers
+- Variáveis categóricas
+- One hot encoding e dummies
 
 ## Tratamentos na base de dados
 
-Pegamos uma base de dados de telecom e tratamos seus registros, aplicando diversos tratamentos, como:
+Pegamos uma base de dados de telecom e tratamos seus registros, como:
 
 - Dados nulos
 
