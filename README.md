@@ -14,15 +14,7 @@ Realizamos o tratamento e a limpeza de ruídos como:
 
 ## Tratamentos na base de dados
 
-Pegamos uma base de dados de telecom e tratamos seus registros, como:
-
-- Dados nulos
-
-- Dados duplicados
-
-- Features ou colunas categóricas
-
-Preparamos a base de dados para ser inserida em modelo de aprendizado de máquina.
+Pegamos uma base de dados de telecom e preparamos a base de dados para ser inserida em modelo de aprendizado de máquina.
 
 ## 🔗 Meu notebook do curso
 
