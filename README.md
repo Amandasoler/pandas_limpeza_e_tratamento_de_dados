@@ -25,3 +25,6 @@ Pré-requisitos:
 ## 🔗 Meu notebook do curso
 
 https://colab.research.google.com/drive/1KMdI36XkYld4XAkylJ-z1CeODn3TSVEu?usp=sharing
+
+## 🔗 Meu notebook do desafio "Identificando fraudes"
+
