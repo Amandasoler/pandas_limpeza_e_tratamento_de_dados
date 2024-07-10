@@ -22,9 +22,7 @@ Pré-requisitos:
 - Bibliotecas Numpy e Pandas
 - Agrupamento, seleção e manipulação de dados.
 
-## 🔗 Meu notebook do curso
+## 🔗 [Meu notebook do curso](https://colab.research.google.com/drive/1KMdI36XkYld4XAkylJ-z1CeODn3TSVEu?usp=sharing)
 
-https://colab.research.google.com/drive/1KMdI36XkYld4XAkylJ-z1CeODn3TSVEu?usp=sharing
-
-## 🔗 Meu notebook do desafio "Identificando fraudes"
+## 🔗 [Meu notebook do desafio "Identificando fraudes"](https://colab.research.google.com/drive/1CeHxJGHYy75JlRVcbZLpHwSo6oMca8zg?usp=sharing)
 
