@@ -16,6 +16,12 @@ Realizamos o tratamento e a limpeza de ruídos como:
 
 Pegamos uma base de dados de telecom e preparamos a base de dados para ser inserida em modelo de aprendizado de máquina.
 
+Pré-requisitos:
+
+- Python
+- Bibliotecas Numpy e Pandas
+- Agrupamento, seleção e manipulação de dados.
+
 ## 🔗 Meu notebook do curso
 
 https://colab.research.google.com/drive/1KMdI36XkYld4XAkylJ-z1CeODn3TSVEu?usp=sharing
