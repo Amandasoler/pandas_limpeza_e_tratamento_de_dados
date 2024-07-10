@@ -10,7 +10,7 @@ Realizamos o tratamento e a limpeza de ruídos como:
 - Dados nulos
 - Outliers
 - Variáveis categóricas
-- One hot encoding e dummies
+- One Hot Encoder e dummies
 
 ## Tratamentos na base de dados
 
